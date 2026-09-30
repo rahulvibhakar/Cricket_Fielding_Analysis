@@ -162,4 +162,3 @@ This project is provided for educational and analytical use. Add an appropriate 
 ## Summary
 
 This project is a practical starter for cricket fielding analysis and dashboarding. It is suitable for learning, demos, coaching analysis, and custom fielding evaluation workflows.
-```
